@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USSD Wear</string>
+    <string name="action_about">О программе</string>
+    <string name="check_ussd_button_title">Проверить запрос</string>
+    <string name="ussd_response_default_label">Здесь будет результат запроса...</string>
+    <string name="ussd_response_error_label">Похоже произошла ошибка. Пожалуйста попробуйте снова...</string>
+    <string name="getting_ussd_response_label">Получаем данные...</string>
+    <string name="ussd_service_configuration_label">Для того чтобы начать пользоваться приложением пожалуйста включите в настройках (Спец. возможности) наш сервис USSD Wear для чтения USSD запросов</string>
+    <string name="open_accesibility_settings_button_title">Открыть настройки</string>
+    <string name="start_app_button_title">Готово!</string>
+    <string name="tour_label">Почти готово! Введите Ваш USSD запрос и проверьте его, нажав на кнопку \"Проверить запрос\". И вы будете готовы проверять Ваш баланс с часов!</string>
+    <string name="title_activity_about">О программе</string>
+    <string name="about_label">USSD Wear v1.0\nРазработчик: Alexander Golikov, 2014\nЛоготип разработан на основе изображения от автора Freepik (http://www.freepik.com) с ресурса http://www.flaticon.com\nЛицензия CC BY 3.0</string>
+    <string name="send_feedback_button_title">Отправить пожелание</string>
+    <string name="show_tour_button_title">Показать помощь</string>
+    <string name="feedback_email_subject">USSD Wear фидбэк</string>
+    <string name="feedback_email_chooser_title">Отправить фидбэк...</string>
+    <string name="ussd_reader_service_description">Этот сервис помогает USSD Wear обрабатывать USSD запросы и направлять результаты на Ваше Android Wear устройство.</string>
+
+</resources>

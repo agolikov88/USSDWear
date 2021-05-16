@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#418608</color>
+
+    <color name="check_ussd_button_normal_color">#418608</color>
+    <color name="check_ussd_button_pressed_color">#2f6504</color>
+
+</resources>

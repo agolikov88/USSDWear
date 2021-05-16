@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USSD Wear</string>
+    <string name="action_about">About</string>
+    <string name="check_ussd_button_title">Check USSD</string>
+    <string name="ussd_response_default_label">USSD response text will be placed here...</string>
+    <string name="ussd_response_error_label">Seems like there was an error, please try again...</string>
+    <string name="getting_ussd_response_label">Getting USSD response...</string>
+    <string name="ussd_service_configuration_label">To start using USSD Wear please turn on our USSD reader service in Accessibility settings</string>
+    <string name="open_accesibility_settings_button_title">Go to Settings</string>
+    <string name="start_app_button_title">Start using USSD Wear</string>
+    <string name="tour_label">You are almost done! To start using USSD Wear setup your USSD request number and test it with \"Check USSD\" button on next screen. Then you\'ll be ready to call USSD from your wearable device!</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_label">USSD Wear v1.0\nDeveloped by Alexander Golikov, 2014\nLauncher icon modified from source made by Freepik (http://www.freepik.com) from http://www.flaticon.com\nLicensed under CC BY 3.0</string>
+    <string name="send_feedback_button_title">Send Feedback</string>
+    <string name="show_tour_button_title">Show Tour</string>
+    <string name="feedback_email_subject">USSD Wear Feedback</string>
+    <string name="feedback_email_chooser_title">Send feedback...</string>
+    <string name="ussd_reader_service_description">This service helps USSD Wear parse USSD requests and pass results to your wearable device.</string>
+
+</resources>
